@@ -35,25 +35,25 @@ The noc_regions.xlsx contains the region associated.
 ##To visualize the findings, Power BI - a powerful data visualization tool was used.
 
 #QUESTIONS SOLVED:
-###1)How many olympics games have been held?
-###2)List down all Olympics games held so far.
-###3)Mention the total no of nations who participated in each olympics game?
-###4)Which year saw the highest and lowest no of countries participating in olympics?
-###5)Which nation has participated in all of the olympic games?
-###6)Identify the sport which was played in all summer olympics.
-###7)Which Sports were just played only once in the olympics?
-###8)Identify the total no of sports played in each olympic games?
-###9)Find the oldest athletes to win a gold medal
-###10)Find the Ratio of male and female athletes participated in all olympic games
-###11)Identify the top 5 athletes who have won the most gold medals
-###12)Identify the top 5 athletes who have won the most medals (gold/silver/bronze).
-###13)Identify the top 5 most successful countries in olympics. Success is defined by no of medals won.
-###14)List down total gold, silver and bronze medals won by each country.
-###15)List down total gold, silver and bronze medals won by each country corresponding to each olympic games.
-###16)In which Sport/event, India has won highest medals?
-###17)Break down all olympic games where India won medal for Hockey and how many medals in each olympic games.
+### 1. How many olympics games have been held?
+### 2. List down all Olympics games held so far.
+### 3. Mention the total no of nations who participated in each olympics game?
+### 4. Which year saw the highest and lowest no of countries participating in olympics?
+### 5. Which nation has participated in all of the olympic games?
+### 6. Identify the sport which was played in all summer olympics.
+### 7. Which Sports were just played only once in the olympics?
+### 8. Identify the total no of sports played in each olympic games?
+### 9. Find the oldest athletes to win a gold medal
+### 10. Find the Ratio of male and female athletes participated in all olympic games
+### 11. Identify the top 5 athletes who have won the most gold medals
+### 12. Identify the top 5 athletes who have won the most medals (gold/silver/bronze).
+### 13. Identify the top 5 most successful countries in olympics. Success is defined by no of medals won.
+### 14. List down total gold, silver and bronze medals won by each country.
+### 15. List down total gold, silver and bronze medals won by each country corresponding to each olympic games.
+### 16. In which Sport/event, India has won highest medals?
+### 17. Break down all olympic games where India won medal for Hockey and how many medals in each olympic games.
 
 #CONCLUSION:
-##India has won 197 medals so far in the olympics out of which 173 medals are achieved in Hockey..where as the other medals are achieved in sports such as Alpinism,Athletics,Badminton,Boxing,Shooting,Tennis,Wightlifting,Wresting.
+## India has won 197 medals so far in the olympics out of which 173 medals are achieved in Hockey..where as the other medals are achieved in sports such as Alpinism,Athletics,Badminton,Boxing,Shooting,Tennis,Wightlifting,Wresting.
 
-##India needs to expand and enrich its footprints in the other sports in addition to Hockey to shine higher in Olympics.
+## India needs to expand and enrich its footprints in the other sports in addition to Hockey to shine higher in Olympics.

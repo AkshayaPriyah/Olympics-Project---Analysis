@@ -9,8 +9,8 @@ Through this analysis, we might be able to understand areas where India needs to
 The dataset was obtained from Kaggle-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 It is a historical dataset on the Modern Olympic Games, including the Games from Athens 1896 to Rio 2016.The file athlete_events.xlsx contains 271116 rows and 15 columns:
 
-ID - Unique number for each athlete
-Name - Athlete's name
+*ID - Unique number for each athlete
+*Name - Athlete's name
 Sex - M or F
 Age - Integer
 Height - In centimeters

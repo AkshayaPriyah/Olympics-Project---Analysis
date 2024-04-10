@@ -35,7 +35,7 @@ The noc_regions.xlsx contains the region associated.
 ##To visualize the findings, Power BI - a powerful data visualization tool was used.
 
 #QUESTIONS SOLVED:
-## 1. How many olympics games have been held?
+### 1. How many olympics games have been held?
 ### 2. List down all Olympics games held so far.
 ### 3. Mention the total no of nations who participated in each olympics game?
 ### 4. Which year saw the highest and lowest no of countries participating in olympics?

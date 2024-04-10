@@ -29,10 +29,10 @@ It is a historical dataset on the Modern Olympic Games, including the Games from
 
 The noc_regions.xlsx contains the region associated.
 
-#Approach
-##Data cleaning/Data Preparation - SQL
-##Exploratory Data Analysis was done to solve the below questions using SQL.
-##To visualize the findings, Power BI - a powerful data visualization tool was used.
+# Approach
+## Data cleaning/Data Preparation - SQL
+## Exploratory Data Analysis was done to solve the below questions using SQL.
+## To visualize the findings, Power BI - a powerful data visualization tool was used.
 
 #QUESTIONS SOLVED:
 ### 1. How many olympics games have been held?
@@ -53,7 +53,7 @@ The noc_regions.xlsx contains the region associated.
 ### 16. In which Sport/event, India has won highest medals?
 ### 17. Break down all olympic games where India won medal for Hockey and how many medals in each olympic games.
 
-#CONCLUSION:
+# CONCLUSION:
 ## India has won 197 medals so far in the olympics out of which 173 medals are achieved in Hockey..where as the other medals are achieved in sports such as Alpinism,Athletics,Badminton,Boxing,Shooting,Tennis,Wightlifting,Wresting.
 
 ## India needs to expand and enrich its footprints in the other sports in addition to Hockey to shine higher in Olympics.

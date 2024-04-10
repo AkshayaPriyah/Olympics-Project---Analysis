@@ -30,9 +30,9 @@ It is a historical dataset on the Modern Olympic Games, including the Games from
 The noc_regions.xlsx contains the region associated.
 
 # Approach
-## Data cleaning/Data Preparation - SQL
-## Exploratory Data Analysis was done to solve the below questions using SQL.
-## To visualize the findings, Power BI - a powerful data visualization tool was used.
+### Data cleaning/Data Preparation - SQL
+### Exploratory Data Analysis was done to solve the below questions using SQL.
+### To visualize the findings, Power BI - a powerful data visualization tool was used.
 
 #QUESTIONS SOLVED:
 ### 1. How many olympics games have been held?

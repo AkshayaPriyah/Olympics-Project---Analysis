@@ -1,4 +1,4 @@
-# Olympics-Project(120 YEARS OF OLYMPICS DATA ANALYSIS)
+# Olympics-Project(120 YEARS OF OLYMPICS DATA ANALYSIS)-SQL AND POWER BI
 
 # Overview
 The Olympics Project(120 years of Olympics data) is aimed to explore the Performance of countries in each sports at olympics,Identify top performing achievers,Study on gender distribution at olympics held so far, Participation and performance of India and much more.
